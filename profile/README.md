@@ -1,5 +1,3 @@
-# 👋 Welcome to Gitpod Samples!
-
 > ## ⚠️ **Deprecation Notice: Gitpod Classic has been superseded by Ona**
 >
 > This organization is **deprecated** and is no longer actively maintained.
